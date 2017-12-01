@@ -3,8 +3,4 @@
 - Revert your project to the point where the file never existed 
   (or just any earlier version). 
 
-To go back:
-- Revert to the old version with "git checkout HEAD~1 filename"
-  (you can also use "." in place of the filename to revert the whole project!).
-- Commit the changes.
 
