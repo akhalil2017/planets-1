@@ -1,6 +1,0 @@
-- Add a new file, commit it.
-- Make another change to that file.
-- Revert your project to the point where the file never existed 
-  (or just any earlier version). 
-
-
