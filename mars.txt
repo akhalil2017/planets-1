@@ -6,3 +6,5 @@ and add something else
 our third change for this commit
 a new change
 
+this is the only change we want in git
+
